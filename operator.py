@@ -1,0 +1,6 @@
+number1 = float(input("Enter a number: "))
+number2 = float(input("Enter a number: "))
+modula =  (number1 % number2)
+division =  (number1 / number2)
+sum = (number1 + number2)
+print(sum)
